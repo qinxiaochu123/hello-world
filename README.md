@@ -1,2 +1,3 @@
 # hello-world
-Just another respository
+只是另一个存储库
+I like C.
